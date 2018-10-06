@@ -1,0 +1,21 @@
+{
+  update_id: 752078057,
+  message: {
+    message_id: 18,
+    from: {
+      id: 173916577,
+      is_bot: false,
+      first_name: 'Mikl',
+      username: 'w00lf87',
+      language_code: 'ru-RU'
+    },
+    chat: {
+      id: 173916577,
+      first_name: 'Mikl',
+      username: 'w00lf87',
+      type: 'private'
+    },
+    date: 1538817464,
+    text: 'test'
+  }
+}
